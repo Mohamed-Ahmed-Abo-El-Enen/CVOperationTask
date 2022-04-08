@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  cvoperationtask:
+    image: cvoperationtask
+    build:
+      context: .
+      dockerfile: ./Dockerfile
