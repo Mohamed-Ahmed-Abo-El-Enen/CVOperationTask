@@ -1,7 +1,7 @@
 <div align="center">
   <h3 align="center">CV-Operation-Task</h3>
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    A Computer Vision Inferance Task With C++
     <br />
   </p>
 </div>
@@ -63,7 +63,7 @@ To run the source code
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/Mohamed-Ahmed-Abo-El-Enen/CVOperationTask.git
    ```
 2. Install Opencv
 3. Install Onnxruntime
